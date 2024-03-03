@@ -1,0 +1,3 @@
+users can login with their email, number, password
+users can signin with face recognition 
+users can use mfa authentication for signin 
